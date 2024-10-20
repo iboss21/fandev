@@ -1,0 +1,11 @@
+Model Information:
+* title:	Grey Alien Bust
+* source:	https://sketchfab.com/3d-models/grey-alien-bust-b23e063c2d44485c827d5d82d118a61e
+* author:	crowempires (https://sketchfab.com/crowempires)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Grey Alien Bust" (https://sketchfab.com/3d-models/grey-alien-bust-b23e063c2d44485c827d5d82d118a61e) by crowempires (https://sketchfab.com/crowempires) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
